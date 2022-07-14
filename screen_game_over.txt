@@ -1,16 +1,16 @@
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 ||                                                                  ||
-||               GGG      A      M    M  EEEEE                      ||
-||              G        A A     MM  MM  E                          ||  
-||              G  GG   A   A    M MM M  EEEE                       ||  
-||              G   G   AAAAA    M    M  E                          ||
-||               GGG   A     A   M    M  EEEEE      \         /     || 
-||                                                   \       /      || 
-||                 OOO   V     V  EEEEE  RRR      ||           ||   || 
-||                O   O   V   V   E      R  R      ||    A    ||    || 
-||                O   O   V   V   EEEE   RRR                        || 
-||                O   O    V V    E      R  R        -/-/-\-\-      || 
-||                 OOO      V     EEEEE  R   R       /       \      || 
+||           GGG      A      M    M  EEEEE     ||=========          ||
+||          G        A A     MM  MM  E         ||        |          ||  
+||          G  GG   A   A    M MM M  EEEE      ||       """"        ||  
+||          G   G   AAAAA    M    M  E         ||       \  /        ||
+||           GGG   A     A   M    M  EEEEE     ||    ___ || __      || 
+||                                             ||   /   |  |  \     ||  
+||             OOO   V     V  EEEEE  RRR       ||       \  /        ||  
+||            O   O   V   V   E      R  R      ||       /  \        || 
+||            O   O   V   V   EEEE   RRR       ||     _/    \_      ||  
+||            O   O    V V    E      R  R      ||                   || 
+||             OOO      V     EEEEE  R   R                          || 
 ||                                                                  || 
 ||      RETRY:                                                      || 
 ||         YES = 1                                                  || 
@@ -21,3 +21,13 @@
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
 Your last score: $$                 
 Do you want to TRY again: 
+
+
+
+
+
+
+
+
+
+ 

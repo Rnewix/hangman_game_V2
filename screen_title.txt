@@ -19,5 +19,5 @@
 ||                                                                  || 
 || Press the number and press start.               By: Roca Carlos  ||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
-                 
-Which tipe of game you want to play: 
+Score: $$                  
+Now hich tipe of game you want to play: 
