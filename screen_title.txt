@@ -1,0 +1,23 @@
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||                                                                  ||
+||      H   H      A     N   N    GGG    M    M      A     N   N    ||
+||      H   H     A A    NN  N   G       MM  MM     A A    NN  N    ||  
+||      HHHHH    A   A   N N N   G  GG   M MM M    A   A   N N N    ||  
+||      H   H    AAAAA   N  NN   G   G   M    M    AAAAA   N  NN    ||
+||      H   H   A     A  N   N    GGG    M    M   A     A  N   N    || 
+||                                                                  || 
+||                         ||         ||                            || 
+||                         ||    A    ||                            || 
+||                                                                  || 
+||                           -/-/-/-/-                              || 
+||                                                                  || 
+||    Select mode of play:                                          || 
+||      Animales = 1                                                || 
+||      Familiy  = 2                                                || 
+||      Food     = 3                                                || 
+||                                                                  || 
+||                                                                  || 
+|| Press the number and press start.               By: Roca Carlos  ||
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+                 
+Which tipe of game you want to play: 
