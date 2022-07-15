@@ -12,22 +12,10 @@
 ||            O   O    V V    E      R  R      ||                   || 
 ||             OOO      V     EEEEE  R   R                          || 
 ||                                                                  || 
-||      RETRY:                                                      || 
-||         YES = 1                                                  || 
-||         NO  = 2                                                  || 
+||                      Thanks for playing!                         || 
+||                  We hope to see you again ^u^                    || 
 ||                                                                  || 
-||                                                                  || 
-|| Press the number and press start.               By: Roca Carlos  ||
+||                        CREDITS:                                  || 
+||                   Made by Roca Carlos                            || 
+||                                                                  ||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
-Your last score: $$             your lifes: ??          
-Do you want to TRY again: 
-<<
-
-
-
-
-
-
-
-
- 
