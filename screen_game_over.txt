@@ -22,12 +22,3 @@
 Your last score: $$             your lifes: ??          
 Do you want to TRY again: 
 <<
-
-
-
-
-
-
-
-
- 
