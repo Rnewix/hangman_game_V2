@@ -20,5 +20,5 @@
 || Press the number and press start.               By: Roca Carlos  ||
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
 Score: $$                        Lifes: ??
-Now hich tipe of game you want to play: 
+Now which type of game you want to play: 
 <<
